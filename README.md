@@ -6,9 +6,23 @@ A list of defi projects that may spark thy interest, emphasis on interest...
 
 ## Informational
 * [DeFi Pulse](defipulse.com)
-* 
+
+## Ethereum Layer 2 Solutions
+* [xDai](https://www.xdaichain.com/)
+ * Ethereum Sidechain
+ *  
 ## Decentralized Exchanges
 * [Waves Exchange](https://waves.exchange)
+* [UNISwap](https://uniswap.org)
+ * Has exchange, staking and liquidity minig
+* [Honeyswap](https://app.honeyswap.org)
+ * On the xDai sidechain
+ * EXTREMELY CHEAP FEES
+ * At this point, requires either purchasing xDai on [BitMax](https://bitmax.io/register?inviteCode=7GYO9EJJ) and sending it to your xDai wallet or acquiring Dai and birdging it over from the Ethereum Mainnet to the xDai chain (EXTREMELY HIGH FEES AT THIS MOMENT AND TIME)
+ * Is a Uniswap clone, so it has all the Uniswap features
+ * DID I MENTION, EXTREMELY CHEAP FEES
+ * ERC20 Compatible
+ * 
 
 ## Centralized Exchage (I don't not support them, but they are necessary at some degree)
 
