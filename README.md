@@ -12,7 +12,7 @@ A list of defi projects that may spark thy interest, emphasis on interest...
 
 ## Centralized Exchage (I don't not support them, but they are necessary at some degree)
 
-* [Coinbase (coinbase.com)]()
+* [Coinbase (coinbase.com)](https://www.coinbase.com/join/betteryourweb?src=android-share)
 * [Coinbase Pro (pro.coinbase.com)](https://pro.coinbase.com)
 * [BitMax](https://bitmax.io/register?inviteCode=7GYO9EJJ)
   * NOTE: Use a VPN outside of the US, Don't do the verication, you can withdraw and trade without it
